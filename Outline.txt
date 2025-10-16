@@ -1,3 +1,4 @@
+Chapter1
 The Beginning
 1 In the beginning 
 2 Now the earth was formless and empty
@@ -9,6 +10,8 @@ The Beginning
 8 God called the vault “sky.” And there was evening, and there was morning—the second day.
 9 And God said, “Let the water under the sky
 10 God called the dry ground “land"
+
+Chapter2
 The Beginning
 1 In the beginning 
 2 Now the earth was formless and empty
